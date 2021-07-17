@@ -6,6 +6,10 @@ This repository is created for submitting Design and Analysis of Algorithm.
 
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/tree/main/Week0)</br>
 
+## Lab2
+![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/lab2_Q1.png)</br>
+[Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week1/Linear/linear.cpp)</br>
+
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>
 Email : akshat.kodia@gmail.com<br/>

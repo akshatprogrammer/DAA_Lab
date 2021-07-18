@@ -13,6 +13,10 @@ This repository is created for submitting Design and Analysis of Algorithm.
 ![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/lab2_Q2.png)</br>
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week1/Binary/binary.cpp)</br>
 
+![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/lab2_Q3.png)</br>
+[Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week1/Jump/jump.cpp)</br>
+
+
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>
 Email : akshat.kodia@gmail.com<br/>

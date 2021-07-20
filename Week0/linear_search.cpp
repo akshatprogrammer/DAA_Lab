@@ -4,6 +4,7 @@
 using namespace std;
 int main(){
 	ifstream inFile;
+	int count=0;
 	string nameFile;
 	inFile.open("input.txt");
 	ofstream myFile;
@@ -24,14 +25,16 @@ int main(){
 	
 	// Linear Search
 	for(int i=0;i<n;i++){
+
 		if(arr[i]==k){
-			myFile << "Key Element Found :)" << endl;
-			break;
+			count=1;
 		}
-		else{
-			myFile << "Sorry :(" << endl;
-			break;
-		}
+	}
+	if(count==0){
+		myFile << "Key Element Found :)" << endl;
+	}
+	else{
+		myFile << "Key Element Not Found :)" << endl;
 	}
     
 }

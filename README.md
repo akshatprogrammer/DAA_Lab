@@ -17,7 +17,7 @@ This repository is created for submitting Design and Analysis of Algorithm.
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week1/Jump/jump.cpp)</br>
 
 ## Lab3
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/lab3_Q1.png)</br>
+![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab3_Q1.png)</br>
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week2/Que1/Que1.cpp)</br>
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>

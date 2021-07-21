@@ -30,7 +30,7 @@ int main(){
 			count=1;
 		}
 	}
-	if(count==0){
+	if(count==1){
 		myFile << "Key Element Found :)" << endl;
 	}
 	else{

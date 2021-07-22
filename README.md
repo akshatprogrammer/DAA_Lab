@@ -21,7 +21,7 @@ This repository is created for submitting Design and Analysis of Algorithm.
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week2/Que1/Que1.cpp)</br>
 
 ![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab3_Q2.png)</br>
-[Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week2/Que@/Que2.cpp)</br>
+[Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week2/Que2/Que2.cpp)</br>
 
 
 # Connect With Me

@@ -30,6 +30,9 @@ This repository is created for submitting Design and Analysis of Algorithm.
 ![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab4_Q1.png)</br>
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week3/Que1/Insertion.cpp)</br>
 
+![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab4_Q2.png)</br>
+[Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week3/Que2/Selection.cpp)</br>
+
 
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>

@@ -1,0 +1,9 @@
+-31 -23 32 45 46 65 76 89 
+Shifts = 13
+Comparisons = 20
+21 32 34 46 51 54 65 76 78 97 
+Shifts = 28
+Comparisons = 37
+-12 22 31 42 46 54 63 65 86 223 324 325 553 645 652 
+Shifts = 54
+Comparisons = 68

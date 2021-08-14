@@ -36,6 +36,8 @@ This repository is created for submitting Design and Analysis of Algorithm.
 ![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab4_Q3.png)</br>
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week3/Que3/Quick.cpp)</br>
 
+## Assignment 1
+[Click Here](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Assignments/Assignment1.pdf)</br>
 
 
 # Connect With Me

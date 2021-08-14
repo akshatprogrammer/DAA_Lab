@@ -39,6 +39,8 @@ This repository is created for submitting Design and Analysis of Algorithm.
 ## Assignment 1
 [Click Here](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Assignments/Assignment1.pdf)</br>
 
+## Tutorial 1
+[Click Here](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Tutorials/Tutorial1.pdf)</br>
 
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>

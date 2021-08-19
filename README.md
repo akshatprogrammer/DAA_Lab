@@ -46,6 +46,12 @@ This repository is created for submitting Design and Analysis of Algorithm.
 ![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab5_Q1.png)</br>
 [Click Here for the link](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week4/Que1/Que1.cpp)</br>
 
+![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab5_Q2.png)</br>
+[Click Here for the link](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week4/Que2/Que2.cpp)</br>
+
+![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab5_Q3.png)</br>
+[Click Here for the link](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week4/Que3/Que3.cpp)</br>
+
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>
 Email : akshat.kodia@gmail.com<br/>

@@ -63,17 +63,18 @@ This repository is created for submitting Design and Analysis of Algorithm.
 [Click Here for the Solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week5/Que3/Que3.cpp)</br>
 
 # Connect With Me
-LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>
-Email : akshat.kodia@gmail.com<br/>
-Twitter : www.twitter.com/akki_aj89<br/>
-Website : https://akshatprogrammer.github.io/portfolio/</br>
+LinkedIn : [https://www.linkedin.com/in/akshatjaingeu/](https://www.linkedin.com/in/akshatjaingeu/)<br/>
+Email : [akshat.kodia@gmail.com ](akshat.kodia@gmail.com)<br/>
+Twitter : [www.twitter.com/akki_aj89](www.twitter.com/akki_aj89)<br/>
+Website : [https://akshatprogrammer.github.io/portfolio/](https://akshatprogrammer.github.io/portfolio/)
 
 # Personal
 Name : Akshat Jain<br/>
 University : Graphic Era University, Dehradun(UK)
 
 If any problem with this program reach me at Telegram<br/>
-Here is the link -> https://t.me/akki_aj89
+Here is the link -> [Telegram](https://t.me/akki_aj89)
 
 # Gratitude
 Thank You, if you like it please leave a Star.
+

@@ -2,7 +2,7 @@
 This repository is created for submitting Design and Analysis of Algorithm.
 
 ## Lab1
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/lab1.png)
+<img src="images/lab1.png">
 
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/tree/main/Week0)
 

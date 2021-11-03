@@ -7,33 +7,42 @@ This repository is created for submitting Design and Analysis of Algorithm.
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/tree/main/Week0)
 
 ## Lab2
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/lab2_Q1.png)
+<img src="images/lab2_Q1.png">
+
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week1/Linear/linear.cpp)
 
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/lab2_Q2.png)
+<img src="images/lab2_Q2.png">
+
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week1/Binary/binary.cpp)
 
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/lab2_Q3.png)
+<img src="images/lab2_Q3.png">
+
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week1/Jump/jump.cpp)
 
 ## Lab3
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab3_Q1.png)
+<img src="images/Lab3_Q1.png">
+
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week2/Que1/Que1.cpp)
 
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab3_Q2.png)
+<img src="images/Lab3_Q2.png">
+
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week2/Que2/Que2.cpp)
 
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab3_Q3.png)
+<img src="images/Lab3_Q3.png">
+
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week2/Que3/Que3.cpp)
 
 ## Lab4
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab4_Q1.png)
+<img src="images/Lab4_Q1.png">
+
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week3/Que1/Insertion.cpp)
 
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab4_Q2.png)
+<img src="images/Lab4_Q2.png">
+
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week3/Que2/Selection.cpp)
 
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab4_Q3.png)
+<img src="images/Lab4_Q3.png">
+
 [Click here for the solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week3/Que3/Quick.cpp)
 
 ## Assignment 1
@@ -43,23 +52,29 @@ This repository is created for submitting Design and Analysis of Algorithm.
 [Click Here](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Tutorials/Tutorial1.pdf)
 
 ## Lab5
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab5_Q1.png)
+<img src="images/Lab5_Q1.png">
+
 [Click Here for the Solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week4/Que1/Que1.cpp)
 
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab5_Q2.png)
+<img src="images/Lab5_Q2.png">
+
 [Click Here for the Solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week4/Que2/Que2.cpp)
 
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab5_Q3.png)
+<img src="images/Lab5_Q3.png">
+
 [Click Here for the Solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week4/Que3/Que3.cpp)
 
 ## Lab6
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab6_Q1.png)
+<img src="images/Lab6_Q1.png">
+
 [Click Here for the Solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week5/Que1/Que1.cpp)
 
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab6_Q2.png)
+<img src="images/Lab6_Q2.png">
+
 [Click Here for the Solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week5/Que2/Que2.cpp)
 
-![image](https://github.com/akshatprogrammer/DAA_Lab/blob/main/images/Lab6_Q3.png)
+<img src="images/Lab6_Q3.png">
+
 [Click Here for the Solution](https://github.com/akshatprogrammer/DAA_Lab/blob/main/Week5/Que3/Que3.cpp)
 
 # Connect With Me
